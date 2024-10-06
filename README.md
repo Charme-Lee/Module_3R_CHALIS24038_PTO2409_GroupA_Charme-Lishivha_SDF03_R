@@ -34,6 +34,7 @@ You have everything you need to start your project using this starter project. T
 - [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [Sending Form Data](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
 - [HTML Emojis](https://www.w3schools.com/html/html_emojis.asp)
+- [Strong vs Bold tag](https://www.sololearn.com/en/Discuss/74739/what-is-difference-between-bold-text-and-strong-text)
 
 # Code Overview
 
