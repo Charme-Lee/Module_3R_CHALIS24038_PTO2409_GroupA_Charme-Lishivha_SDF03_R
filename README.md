@@ -34,3 +34,7 @@ You have everything you need to start your project using this starter project. T
 - [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [Sending Form Data](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
 - [HTML Emojis](https://www.w3schools.com/html/html_emojis.asp)
+
+# Code Overview
+
+- [My Code rundown](hhttps://www.loom.com/share/fea098aa4e1d432eaa334fd3af86a7c5)
