@@ -38,4 +38,4 @@ You have everything you need to start your project using this starter project. T
 
 # Code Overview
 
-- [My Code rundown](hhttps://www.loom.com/share/fea098aa4e1d432eaa334fd3af86a7c5)
+- [My Code rundown](https://www.loom.com/share/fea098aa4e1d432eaa334fd3af86a7c5)
